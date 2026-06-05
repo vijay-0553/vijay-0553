@@ -11,81 +11,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Building+Intelligent+Solutions;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
----
 
-<!-- SECTION B: ABOUT ME -->
-## 👤 About Me
 
-An ambitious and driven **AI/ML Engineer** and Full Stack Developer with a passion for turning complex data into actionable intelligence and building seamless user experiences. As a fresher, I bring cutting-edge theoretical knowledge backed by hands-on project execution and rigorous professional training.
-
-*   🎓 **Specialized Training:** Successfully completed the **Full Stack program at Imarticus Learning**.
-*   🏆 **Database Excellence:** Earned the **ORACLE Dev Gym Databases for Developers: Performance Certificate of Excellence**.
-*   🚀 **What I Do:** Build responsive frontend interfaces, optimize complex database queries, and design machine learning workflows.
-
-### ⚡ Fun Facts
-*   ☕ Fueled by caffeine, clean code, and training neural networks.
-*   🧠 I love breaking down complex Data Structures and Algorithms (DSA) problems.
-*   🎮 When I'm not coding, I'm exploring new web design trends or optimizing my dev environment.
-*   🔍 Exploring the endless possibilities of Artificial Intelligence.
+## About Me :
+<details open>
+<summary></summary>
+<p>🚀 I’m a Computer Science engineering student at VIT-AP University, driven by building efficient software solutions.</p>
+<p>🔭 I’m currently working on mastering Next.js, optimizing SQL databases, and cracking complex DSA problems.</p>
+<p>🌱 I’m currently learning data science essentials like Pandas and NumPy, alongside diving deep into LLMs.</p>
+<p>🤝 I’m looking to collaborate on open-source web applications and innovative data-driven projects.</p>
+<p>💬 Ask me about Java, Python backend development, web hosting automation, or my latest coding challenges.</p>
+<p>⚡ Fun fact: I love exploring new tech frontiers and solving challenging problems that keep me up at night!</p>
+</details>
 
 ---
 
-<!-- SECTION: PROJECTS -->
-## 🛠️ Featured Project
-
-### 🏋️‍♂️ Fitness Tracker
-*   **Tech Stack:** React.js, JavaScript, HTML5, CSS3 / Tailwind CSS
-*   **Description:** A dynamic, user-friendly web application designed to help users log daily exercises, track nutritional intake, and visualize fitness milestones through an intuitive dashboard. Focused heavily on smooth state management and a clean user experience.
+## Connect with Me 🌐
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_LINK)
 
 ---
 
-<!-- SECTION C: TECH STACK -->
-## 💻 Tech Stack
+## Skills
 
-### 🔹 Frontend Development
-⚡ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🔹 Backend & Data Science
-⚡ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234169E1.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔹 DevOps & Tools
-⚡ ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+| I have | I’m learning | In the memory banks |
+| :--- | :--- | :--- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/> <br><br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-algorithm-data-science-and-cyber-security-flatart-icons-flat-flatarticons.png" alt="dsa" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> <br><br> <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/> <img src="https://img.icons8.com/ios-filled/50/ffffff/cloud-lightning.png" alt="render" width="40" height="40" style="background-color:#111; padding:2px; border-radius:4px;"/> <img src="https://img.icons8.com/fluency/48/api.png" alt="apis" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> <br><br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> <br><br> <img src="https://img.icons8.com/fluency/48/brainstorm.png" alt="llms" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <br><br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sap/sap-original.svg" alt="sap" width="40" height="40"/> |
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijay-0553&theme=onedark&column=7&margin-w=15" alt="vijay-0553 trophies" />
-</div>
+## IDE/GUI's I like
+[![Visual Studio Code](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijay-0553&show_icons=true&theme=tokyonight&count_private=true" alt="Vijay's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-0553&layout=compact&theme=tokyonight" alt="Vijay's Top Languages" height="180px" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-0553&theme=tokyonight" alt="Vijay's GitHub Streak" />
-</div>
-
----
-
-<!-- SECTION D & H: SOCIAL MEDIA LINKS & FOOTER -->
-## 🤝 Let's Connect
-
-If you want to collaborate on a data-driven project, talk full-stack architecture, or just chat about AI trends, feel free to reach out!
-
-🌐 **[Portfolio Website](https://github.com/vijay-0553)** *(Coming Soon!)*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-vijaykumar?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vijay_0553/)
-
----
-<p align="center">
-  <i>"The best way to predict the future is to invent it."</i> — Built with 💻 and ☕ by Vijay Kumar Doddaka.
-</p>
+## My down time
+[![Netflix](https://img.shields.io/badge/NETFLIX-E50914?style=for-the-badge&logo=netflix&logoColor=white)](https://netflix.com)
+[![Spotify](https://img.shields.io/badge/SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
+[![Steam](https://img.shields.io/badge/STEAM-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/)
