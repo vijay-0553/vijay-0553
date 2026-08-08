@@ -72,20 +72,20 @@ vijay_kumar:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vijay-0553&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-0553&theme=highcontrast&hide_border=true&background=0d1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vijay-0553&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vijay-0553&theme=radical&hide_border=true&background=0d1117&stroke=00c6ff&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-0553&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=c9d1d9" />
+<img src="https://github-profile-trophy.vercel.app/?username=vijay-0553&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4&title=Repositories,Commits,Followers,Stars" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vijay-0553&theme=react-dark&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="95%"/>
 
 </div>
 
-> If any card above shows a broken image, it's usually the free stats server rate-limiting — refresh after a minute or two and it resolves on its own.
+> Cards refresh from live GitHub data — if one looks blank on first load, refresh the page after a moment.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
