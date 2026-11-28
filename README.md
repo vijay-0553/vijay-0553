@@ -108,7 +108,7 @@ vijay_kumar:
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">Fitness Tracker</h3>
+<h3 align="center">AI-Powered Fitness Tracker</h3>
 
 <p align="center">An intelligent fitness tracking application that helps users log workouts, monitor progress, and receive data-driven insights to stay consistent with their health goals.</p>
 
@@ -127,9 +127,9 @@ vijay_kumar:
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">Pediatric Pupillometry Disease Detection</h3>
+<h3 align="center">MediSenseAI: Multi-Region X-ray Analysis System</h3>
 
-<p align="center">An AI-powered computer vision system that analyzes pupillary response in pediatric patients to assist in early detection of neurological and ophthalmic conditions.</p>
+<p align="center">Project is about helping doctors read x-ray images using deep learning.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
