@@ -129,7 +129,7 @@ vijay_kumar:
 
 <h3 align="center">MediSenseAI: Multi-Region X-ray Analysis System</h3>
 
-<p align="center">Project is about helping doctors read x-ray images using deep learning.</p>
+<p align="center">AI-powered multi-region X-ray analysis system built with PyTorch and CBAM attention, delivering 97% fracture accuracy across five body regions and published by Springer.</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/>
